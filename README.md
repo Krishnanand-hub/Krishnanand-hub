@@ -8,9 +8,8 @@ MSc Data Science & AI @ Newcastle University &nbsp;•&nbsp; Based in Newcastle,
 
 I work the full pipeline — statistical foundations in **R**, modelling across **ML, Deep Learning & Generative AI** in **Python**, and business-facing analytics in **Power BI**. My focus: models that don't just score well in a notebook, but ship and drive real decisions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR-HANDLE])
-[![Email](https://img.shields.io/badge/Email-Reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/[YOUR-HANDLE])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishnanand-sagar)
+[![Email](https://img.shields.io/badge/Email-Reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnasagar2231@gmail.com)
 
 </div>
 
